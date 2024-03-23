@@ -1,0 +1,8 @@
+.aboutcollege{
+    display: flex;
+}
+.contentb {
+    float: right;
+    width: 815px;
+    border: solid 1px #cfcfcf;
+}

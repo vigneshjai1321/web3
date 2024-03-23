@@ -1,0 +1,10 @@
+.contentbfull {
+    float: right;
+    width: 1024px;
+    border: solid 1px #cfcfcf;
+}
+
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
