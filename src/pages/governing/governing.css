@@ -1,0 +1,16 @@
+.governing{
+    display: flex;
+}
+.contentb {
+    float: right;
+    width: 815px;
+    border: solid 1px #cfcfcf;
+}
+
+h2 {
+    font-size: 110%;
+    font-weight: bold;
+    color: #ffffff;
+    background: #f39f49;
+    padding: 8px 3px 8px 3px;
+}
