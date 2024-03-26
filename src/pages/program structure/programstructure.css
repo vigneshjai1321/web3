@@ -1,0 +1,18 @@
+.programstructure {
+    display: flex;
+}
+
+.contentb {
+   
+    flex: 6;
+    float: right;
+    width: 815px;
+    border: solid 1px #cfcfcf;
+    width: 100%;
+    overflow: hidden;
+}
+
+.container{
+    flex: 2;
+}
+

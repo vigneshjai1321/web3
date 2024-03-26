@@ -1,0 +1,15 @@
+h2 {
+    font-size: 110%;
+    font-weight: bold;
+    color: #ffffff;
+    background: #f39f49;
+    padding: 8px 3px 8px 3px;
+}
+h1 {
+    font-size: 197%;
+}
+h1, h2, h3 {
+    margin: 0;
+    font-weight: normal;
+    color: #666666;
+}

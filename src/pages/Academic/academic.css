@@ -1,0 +1,38 @@
+
+.acedemic{
+  display: flex;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  
+}
+.about{
+  flex: 2;
+}
+
+.container ul{
+  list-style: none;
+  background-color: blue;
+  text-align:justify ;
+  margin: 0;
+  padding: 0;
+  
+  
+}
+
+.container ul li{
+padding: 10px;
+text-wrap: nowrap;
+background: linear-gradient(to bottom right, #24437A ,#96A1B6);
+
+}
+
+
+.aboutlink{
+  text-decoration: none;
+  color: white;
+  font-weight: 500;
+}
+h4{
+  background-color: orange;
+}

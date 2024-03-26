@@ -1,0 +1,32 @@
+.aboutUs{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    
+}
+.about{
+    flex: 2;
+}
+
+.aboutLeftSec ul{
+    list-style: none;
+    background-color: blue;
+    text-align:justify ;
+    
+}
+
+.aboutLeftSec ul li{
+ padding: 10px;
+ text-wrap: nowrap;
+}
+
+
+.aboutlink{
+    text-decoration: none;
+    color: white;
+    font-weight: 500;
+}
+h4{
+    background-color: orange;
+}
